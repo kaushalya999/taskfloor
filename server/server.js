@@ -12,6 +12,8 @@ app.get("/", (req, res) => {
   res.send("API running");
 });
 
+app.use("/api/auth", require("./routes/auth"));
+
 const PORT = process.env.PORT || 5000;
 
 mongoose
