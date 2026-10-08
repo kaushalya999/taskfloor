@@ -4,3 +4,52 @@ body {
   background: #f4f6f8;
   color: #222;
 }
+
+.auth-box {
+  max-width: 360px;
+  margin: 80px auto;
+  padding: 24px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.auth-box h2 {
+  margin-top: 0;
+  text-align: center;
+}
+
+.auth-box input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.auth-box button {
+  width: 100%;
+  padding: 10px;
+  background: #2e75b6;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.auth-box button:hover {
+  background: #1f5a91;
+}
+
+.error {
+  color: #c0392b;
+  margin-bottom: 12px;
+  font-size: 14px;
+}
+
+.auth-box p {
+  text-align: center;
+  font-size: 14px;
+}
