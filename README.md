@@ -25,8 +25,10 @@ I built this project to learn and revise Node.js and React by building something
 ## Screenshots
 
 ### Login
+<img width="731" height="453" alt="Login page" src="https://github.com/user-attachments/assets/0d80abff-e3c9-45ec-89d9-d9fe89bbf877" />
 
 ### Tasks
+<img width="862" height="593" alt="Tasks" src="https://github.com/user-attachments/assets/cb8d26a0-17c3-4b70-afaf-10658f267095" />
 
 ## Project structure
 
